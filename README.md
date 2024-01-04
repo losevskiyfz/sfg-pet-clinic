@@ -1,4 +1,4 @@
-[https://maven-badges.herokuapp.com/maven-central/guru.springframework/sfg-pet-clinic/badge.svg?style=for-the-badge]
+[![CI](https://github.com/losevskiyfz/sfg-pet-clinic/actions/workflows/maven.yml/badge.svg)](https://github.com/losevskiyfz/sfg-pet-clinic/actions/workflows/maven.yml)
 
 # Spring Framework Guru Pet Clinic
 
